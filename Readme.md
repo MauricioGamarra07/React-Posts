@@ -1,8 +1,8 @@
 ![](https://www.rolustech.com/wp-content/themes/rt/images/technologylogo/react.png)
 
-##Secciones de cards en React 
+##Secciones de posts en React 
 
-<p>Página que contiene más de 40 cards, que se organizan en tres secciones, dándole un color a las cards de acuerdo con su sección</p>
+<p>Página que contiene más de 40 posts, que se organizan en tres secciones, dándole un color a los posts de acuerdo con su sección</p>
 
 <p>Para desarrollar la página se utilizaron dos **APIs**, una para la obtención de datos y otra para la generación de imágenes</p>
 
